@@ -1,1 +1,1 @@
-
+# Cold Email Generator
