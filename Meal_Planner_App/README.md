@@ -34,11 +34,3 @@ A smart meal planning application that generates personalized meal plans and rec
 - ChatGroq API Key (LLM)
 - Required Python packages (`requirements.txt`)
 
-### Installation
-
-```bash
-git clone https://github.com/amal862001/Gen-AI/meal-planner-app.git
-cd meal-planner-app
-pip install -r requirements.txt
-python app.py
-
