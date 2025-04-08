@@ -14,7 +14,7 @@ A smart meal planning application that generates personalized meal plans and rec
 - **Frontend**: Streamlit 
 - **Backend**: Python
 - **Database**: MySQL
-- **AI Integration**: ChatGroq (specify if applicable)
+- **AI Integration**: ChatGroq 
 
 
 ## 🧠 How It Works
