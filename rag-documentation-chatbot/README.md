@@ -35,7 +35,7 @@ A **completely free**, production-ready RAG (Retrieval-Augmented Generation) cha
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/rag-chatbot.git
+git clone https://github.com/amal862001/Gen-AI/rag-documentation-chatbot.git
 cd rag-chatbot
 ```
 
