@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is RAG?",
+    "expected_keywords": ["retrieval", "generation", "augmented"]
+  },
+  {
+    "question": "What are the building blocks of RAG?",
+    "expected_keywords": ["retrieval", "generation", "knowledge"]
+  },
+  {
+    "question": "How does vector search work in RAG?",
+    "expected_keywords": ["embedding", "similarity", "vector"]
+  },
+  {
+    "question": "What is the purpose of chunking in RAG?",
+    "expected_keywords": ["split", "document", "chunk"]
+  }
+]
